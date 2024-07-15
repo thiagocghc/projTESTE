@@ -1,1 +1,4 @@
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+
+#A PARTIR DE HOJE SEGUIREMOS NOVOS PADROES DE PROJETO
+## LINK Da ferramenta tal .......
