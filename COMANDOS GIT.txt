@@ -1,0 +1,20 @@
+ls  -> lista os arquivos da pasta
+cls -> limpa a tela (Windows)
+clear -> limpa a tela (Git Bash)
+mkdir ->  criar pasta
+cd  nome_da_pasta -> entrar na pasta
+pwd  -> mostra o caminho do diretório
+
+touch ->  criar arquivo
+cat  ->  mostrar o que tem no arquivo
+echo "texto" >> arq.py  -> envia texto para o arquivo
+
+git init -> inicializa  a pasta com git
+git status  -> verificar o status dos arquivos
+git add .  -> adicionar todos os arquivos para commit
+git commit -m "mensagem" -> salva os arquivos no repositório local
+git push origin main -> sobe os arquivos para o repositório no GIT
+
+cp nomedoarq.py novonomearq.py  -> copia e cola um arquivo
+rm nomedoarq  -> deleta o arquivo
+mv nomedoarq ./caminho_dapasta -> recorta e cola o arquivo
